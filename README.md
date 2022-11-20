@@ -4,3 +4,4 @@
 * Week 1 : Spacex-Data wrangling
 * Week 2 : EDA with SQL
 * Week 2 : EDA with Visualization
+* Week 3 : Interactive Visual Analytics with Folium lab
