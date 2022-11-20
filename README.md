@@ -5,4 +5,4 @@
 * Week 2 : EDA with SQL
 * Week 2 : EDA with Visualization
 * Week 3 : Interactive Visual Analytics with Folium lab
-* Week 3 : Machine Learning Prediction WITH ML
+* Week 4 : Machine Learning Prediction WITH ML
