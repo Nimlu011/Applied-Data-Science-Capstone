@@ -6,3 +6,5 @@
 * Week 2 : EDA with Visualization
 * Week 3 : Interactive Visual Analytics with Folium lab
 * Week 4 : Machine Learning Prediction WITH ML
+* Week 5 : Dashboard with Plotly Dash
+* Week 6 : Story Telling Presentation
